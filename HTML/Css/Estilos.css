@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1, h2 {
+    color: red;
+    font-size: 35px;
+}
+
+p {
+    color: rgb(253, 253, 255);
+    font-size: 20px;
+
+}
